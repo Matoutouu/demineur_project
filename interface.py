@@ -1,7 +1,7 @@
 import os
 import sys
 from PyQt5.QtWidgets import *
-from qgis.PyQt import QtWidgets, QtCore, uic
+from PyQt5 import QtWidgets, QtCore, uic
 from PyQt5.QtGui import * 
 from PyQt5.QtCore import * 
 import Grille 
