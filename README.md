@@ -1,4 +1,4 @@
-Démineur — Projet Python / PyQt5
+Démineur 
 Jeu de Démineur avec interface graphique, développé en Python avec PyQt5. Le joueur choisit une taille de grille, révèle des cases et place des drapeaux afin de repérer les bombes.
 Fonctionnalités
 - Trois niveaux : 5 × 5, 15 × 15 et 30 × 30 cases.
